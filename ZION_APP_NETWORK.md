@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/tech-stack-recommender/
-- 🔗 Related: [AI Architecture Design](https://ziontechgroup.com/ai-architecture-design/) · [AI Model Cost Calculator](https://ziontechgroup.com/ai-model-cost-calculator/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [AI Architecture Design](https://ziontechgroup.com/ai-architecture-design/) · [Zion AI Model Arena](https://ziontechgroup.com/zion-ai-model-arena/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
